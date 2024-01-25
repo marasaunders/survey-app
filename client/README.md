@@ -1,6 +1,6 @@
-# Quasar App (quasar-project)
+#  BAHS Student Job Servey (survey-app)
 
-A Quasar Project
+ This app surveys students about their job interest
 
 ## Install the dependencies
 ```bash

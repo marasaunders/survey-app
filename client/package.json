@@ -1,9 +1,9 @@
 {
-  "name": "quasar-project",
+  "name": "survey-app",
   "version": "0.0.1",
-  "description": "A Quasar Project",
-  "productName": "Quasar App",
-  "author": "Tamara Saunders <tamaras2794@nycstudents.net>",
+  "description": " This app surveys students about their job interest",
+  "productName": " BAHS Student Job Servey",
+  "author": "Tamara Saunders <saunderstamara7@gmail.com>",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue ./",

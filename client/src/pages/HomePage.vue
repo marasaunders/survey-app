@@ -142,6 +142,7 @@
     },
     mounted() {
         // load school list for select drop down box
+        console.log('test:', process.env.SERVER_URL)
         fetch(process.env.SERVER_URL + '/api/school-list')
         .then(response => response.json())
         .then(schoolList => {
